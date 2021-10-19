@@ -1,4 +1,4 @@
-module github.com/EdgeCast/vflow
+module github.com/songshubing/vflow
 
 go 1.15
 
